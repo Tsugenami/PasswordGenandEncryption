@@ -1,5 +1,5 @@
 
-    The purpose of this code is to generate a random password based on user input to define the parameters. The default parameter for the user is just 
+  The purpose of this code is to generate a random password based on user input to define the parameters. The default parameter for the user is just 
   lowercase characters. The other three include capitalized characters, numbers, and special characters. This allows the user to define the parameters in
   any combination of those three with the default. The script will auto export the password as a plaintext document titled "Avocado.txt". From there
   the user has the option to encrypt the password(see below) and decrypt the password.
