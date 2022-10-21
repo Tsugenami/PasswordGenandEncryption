@@ -1,4 +1,3 @@
-# PasswordGenandEncryption
 
     The purpose of this code is to generate a random password based on user input to define the parameters. The default parameter for the user is just 
   lowercase characters. The other three include capitalized characters, numbers, and special characters. This allows the user to define the parameters in
